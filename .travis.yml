@@ -7,3 +7,5 @@ node_js:
 branches:
   only:
     - master
+
+services: mongodb
