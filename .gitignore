@@ -1,0 +1,9 @@
+node_modules
+.next/
+.env
+notes.org
+
+.idea
+package-lock.json
+
+dist
