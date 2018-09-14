@@ -9,5 +9,3 @@ branches:
     - master
 
 services: mongodb
-
-https://habr.com/post/352282/
